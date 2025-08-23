@@ -1,41 +1,60 @@
-<h1 align="center">👋 Hey there, I'm Garv Thakral</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&color=00FFD5&multiline=true&width=500&height=60&lines=MERN+Stack+Developer;UI+%2F+UX+Designer;Open+Source+Contributor;Creator+of+Nexura+UI" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi there , I'm Garv Thakral</h1>
+<h3 align="center">MERN Stack Developer | React-Native Developer | UI/UX Enthusiast | Open Source Contributor</h3>
 
 ---
 
-## 👨‍💻 About Me  
-
-✨ Passionate **MERN Stack Developer** & **UI/UX Enthusiast** with a strong focus on building **modern, scalable, and visually appealing web applications**.  
-I love solving real-world problems with clean code and creative design.  
-
-- 🔭 Currently building projects with the **MERN Stack**  
-- 🌱 Growing my skills in **Node.js | Express.js | React.js | MongoDB**  
-- 🎨 Designing sleek and user-friendly **UI/UX interfaces**  
-- 🤝 Open to **collaboration on MERN stack projects** & innovative ideas  
+### 👨‍💻 About Me  
+- 🔭 Currently building projects with **MERN Stack**  
+- 🌱 Exploring **Node.js | Express.js | React.js | MongoDB**  
+- 🎨 Passionate about **UI/UX Design** – creating modern & clean interfaces  
+- 🤝 Open to collaborating on **MERN stack projects** & frontend innovations  
 - 📬 Reach me at: **garvthakral90@gmail.com**  
 - 🌐 Portfolio: [codebygarv.netlify.app](https://codebygarv.netlify.app/)  
 
 ---
 
-## 🛠️ Tech Stack  
+### 🌐 Connect With Me  
+<p>
+  <a href="mailto:garvthakral90@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/garvthakral/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
+---
+
+### 🛠️ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,figma,vscode,tailwind" />
 </p>
 
 ---
 
-## 🚀 Featured Projects  
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codebygarv&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebygarv&theme=tokyonight" height="160"/>
+</p>
 
-### 🔷 Nexura UI – Lightweight React UI Component Library  
+---
+
+### NPM PAckages that i built
+#### 🔷 Nexura UI – Lightweight React UI Component Library  
 [![NPM](https://img.shields.io/npm/v/nexura.svg?style=flat-square&color=blue)](https://www.npmjs.com/package/nexura)
 [![MIT License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)  
 
-📌 `nexura-ui` is a **React UI component library** focused on modern, stylish, and flexible components.  
+> A lightweight & customizable **React UI library**, delivering modern and stylish components.  
 
 📦 **Install:**  
 ```bash
 npm install nexura
+```
+
+#### 🔷 idchunk – Tiny, Fast & Customizable ID Generator 
+[![NPM](https://img.shields.io/npm/v/idchunk.svg?style=flat-square&color=blue)](https://www.npmjs.com/package/idchunk)
+[![MIT License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)  
+
+> Generate short, secure, and customizable IDs for your apps in milliseconds.
+
+📦 **Install:**  
+```bash
+npm install idchunk
+
