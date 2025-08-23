@@ -36,7 +36,7 @@
 
 ---
 
-### NPM PAckages that i built
+### NPM Packages that i built
 #### 🔷 Nexura UI – Lightweight React UI Component Library  
 [![NPM](https://img.shields.io/npm/v/nexura.svg?style=flat-square&color=blue)](https://www.npmjs.com/package/nexura)
 [![MIT License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)  
