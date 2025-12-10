@@ -9,10 +9,7 @@
 - 🎨 Passionate about **UI/UX Design** – creating modern & clean interfaces  
 - 🤝 Open to collaborating on **MERN stack projects** & frontend innovations  
 
----
 
-### 🌐 Connect With Me  
----
 
 ### 🛠️ Tech Stack  
 <p align="center">
