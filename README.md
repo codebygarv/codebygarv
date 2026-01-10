@@ -1,4 +1,4 @@
-<h1 align="center">Hi there , I'm Garv Thakral</h1>
+<h1 align="center">Hi there , I'm Garv </h1>
 <h3 align="center">MERN Stack Developer | React-Native Developer | UI/UX Enthusiast | Open Source Contributor</h3>
 
 ---
